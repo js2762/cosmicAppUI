@@ -1,6 +1,8 @@
 # cosmic
 
 A new Flutter project.
+i've implemented cosmicApp ui using Bloc state management.
+this app is used to view information of different planets of our solar system.
 
 ## Getting Started
 
